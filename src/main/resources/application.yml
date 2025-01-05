@@ -1,0 +1,15 @@
+webdriver:
+  chrome:
+    driver: ${DRIVER_PATH}
+
+
+account:
+  email: ${EMAIL}
+  password: ${PASSWORD}
+
+2captcha:
+  apiKey: ${RECAPTCHA}
+
+logging:
+  file:
+    name: logs/out.log

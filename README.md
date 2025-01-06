@@ -37,4 +37,4 @@ Environment variables
     DRIVER_PATH=<your-driver-path>
     EMAIL=<your-facebook-email>
     PASSWORD=<your-facebook-password>
-  
+    RECAPTCHA=<api-key-recaptcha>
